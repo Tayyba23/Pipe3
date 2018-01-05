@@ -1,0 +1,53 @@
+2018-01-02 15:06:15 INFO  - ======================================================================================
+2018-01-02 15:06:15 INFO  - =                                                                          		=
+2018-01-02 15:06:15 INFO  - =			Testing Automation Framework Execution Started			=
+2018-01-02 15:06:15 INFO  - =			  Do not close this window unless prompted			=
+2018-01-02 15:06:15 INFO  - =                                                                          		=
+2018-01-02 15:06:15 INFO  - ======================================================================================
+2018-01-02 15:06:15 INFO  - ======================================================================================
+2018-01-02 15:06:15 INFO  - =                                                                          		=
+2018-01-02 15:06:15 INFO  - =		    Scanning Input Metadata Sheet for Mandatory Fields			=
+2018-01-02 15:06:15 INFO  - =                                                                          		=
+2018-01-02 15:06:15 INFO  - ======================================================================================
+2018-01-02 15:06:20 INFO  - ======================================================================================
+2018-01-02 15:06:20 INFO  - =                                                                          		=
+2018-01-02 15:06:20 INFO  - =		Scan Completed - No Required sheets or columns found absent		=
+2018-01-02 15:06:20 INFO  - =                                                                          		=
+2018-01-02 15:06:20 INFO  - ======================================================================================
+2018-01-02 15:06:20 INFO  - ======================================================================================
+2018-01-02 15:06:20 INFO  - =                                                                          		=
+2018-01-02 15:06:20 INFO  - =			Setting up Result and lookup Tables				=
+2018-01-02 15:06:20 INFO  - =	If this is the first time the tool is being executed, this may take some time	=
+2018-01-02 15:06:20 INFO  - =                                                                          		=
+2018-01-02 15:06:20 INFO  - ======================================================================================
+2018-01-02 15:06:37 INFO  - ======================================================================================
+2018-01-02 15:06:37 INFO  - =                                                                          		=
+2018-01-02 15:06:37 INFO  - =				Result and lookup Table Setup Completed			=
+2018-01-02 15:06:37 INFO  - =                                                                          		=
+2018-01-02 15:06:37 INFO  - ======================================================================================
+2018-01-02 15:06:37 DEBUG - File 'C:\Work\GitRepos\Demo1\accounts_stg_2.txt' not found
+2018-01-02 15:06:37 DEBUG - File 'C:\Work\GitRepos\Demo2\customers.txt' not found
+2018-01-02 15:06:37 DEBUG - File 'C:\Work\GitRepos\Demo3\accts.txt' not found
+2018-01-02 15:06:37 DEBUG - File 'C:\Work\GitRepos\Demo4\transactions_.txt' not found
+2018-01-02 15:06:37 INFO  - ======================================================================================
+2018-01-02 15:06:37 INFO  - =                                                                          		 =
+2018-01-02 15:06:37 INFO  - =				Beginning Module Execution				 =
+2018-01-02 15:06:37 INFO  - =			  Do not close this window unless prompted			 =
+2018-01-02 15:06:37 INFO  - =                                                                          		 =
+2018-01-02 15:06:37 INFO  - ======================================================================================
+2018-01-02 15:06:42 INFO  - --------------------------------------------------------------------------------------
+			    |				Running Module 'ROW COUNT'				|
+			    --------------------------------------------------------------------------------------
+2018-01-02 15:06:42 ERROR - Error: Source object 'C:\Work\GitRepos\Demo1\accounts_stg_2.txt' does not exist - Module 'Row Count' cannot be executed
+2018-01-02 15:06:43 ERROR - Error: Source object 'C:\Work\GitRepos\Demo2\customers.txt' does not exist - Module 'Row Count' cannot be executed
+2018-01-02 15:06:43 ERROR - Error: Source object 'C:\Work\GitRepos\Demo3\accts.txt' does not exist - Module 'Row Count' cannot be executed
+2018-01-02 15:06:43 ERROR - Error: Source object 'C:\Work\GitRepos\Demo4\transactions_.txt' does not exist - Module 'Row Count' cannot be executed
+2018-01-02 15:06:43 INFO  - --------------------------------------------------------------------------------------
+			    |		ROW COUNT			|
+			    |	Start: 2018-01-02 15:06:42.714		|
+			    |	End: 2018-01-02 15:06:43.534		|
+			    |	Duration: 0 minutes 0.820 seconds	|
+			    |	Status: Unsuccessful			|
+			    |	Inputs Processed: 0			|
+			    --------------------------------------------------------------------------------------
+

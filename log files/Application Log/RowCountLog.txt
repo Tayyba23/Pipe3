@@ -1,0 +1,35 @@
+2018-01-02 15:04:50,334 INFO  RowCountLogger - In function 'rowCountModuleManager', parameter values: 'int i' = 0
+2018-01-02 15:04:50,336 INFO  RowCountLogger - In function 'rowCountComparison', parameter values: 'source_name' = .accounts_stg_2.txt, 'source_type' = t, 'target_name' = GDEV1T_STG.accs_src2, 'target_type' = t, 'int i' = 0
+2018-01-02 15:04:50,339 INFO  RowCountLogger - In function 'rowCountModuleManager', parameter values: 'int i' = 1
+2018-01-02 15:04:50,340 INFO  RowCountLogger - In function 'rowCountComparison', parameter values: 'source_name' = .customers.txt, 'source_type' = t, 'target_name' = GDEV1T_STG.Cust_, 'target_type' = t, 'int i' = 1
+2018-01-02 15:04:50,341 INFO  RowCountLogger - In function 'rowCountModuleManager', parameter values: 'int i' = 2
+2018-01-02 15:04:50,342 INFO  RowCountLogger - In function 'rowCountComparison', parameter values: 'source_name' = .accts.txt, 'source_type' = t, 'target_name' = GDEV1T_STG.accs, 'target_type' = t, 'int i' = 2
+2018-01-02 15:04:50,343 INFO  RowCountLogger - In function 'rowCountModuleManager', parameter values: 'int i' = 3
+2018-01-02 15:04:50,344 INFO  RowCountLogger - In function 'rowCountComparison', parameter values: 'source_name' = .transactions_.txt, 'source_type' = t, 'target_name' = GDEV1T_STG.TRANS_, 'target_type' = t, 'int i' = 3
+2018-01-02 15:04:50,345 ERROR RowCountLogger - Error encountered while inserting into Row Count Result Table
+2018-01-02 15:04:50,345 DEBUG RowCountLogger - rowCountComparison execution time: 11(ms)
+2018-01-02 15:06:42,714 INFO  RowCountLogger - In function 'rowCountModuleManager', parameter values: 'int i' = 0
+2018-01-02 15:06:42,717 INFO  RowCountLogger - In function 'rowCountComparison', parameter values: 'source_name' = C:\Work\GitRepos\Demo1\accounts_stg_2.txt, 'source_type' = f, 'target_name' = GDEV1T_STG.accs_src2, 'target_type' = t, 'int i' = 0
+2018-01-02 15:06:42,945 INFO  RowCountLogger - In function 'rowCountModuleManager', parameter values: 'int i' = 1
+2018-01-02 15:06:42,947 INFO  RowCountLogger - In function 'rowCountComparison', parameter values: 'source_name' = C:\Work\GitRepos\Demo2\customers.txt, 'source_type' = f, 'target_name' = GDEV1T_STG.Cust_, 'target_type' = t, 'int i' = 1
+2018-01-02 15:06:43,244 INFO  RowCountLogger - In function 'rowCountModuleManager', parameter values: 'int i' = 2
+2018-01-02 15:06:43,247 INFO  RowCountLogger - In function 'rowCountComparison', parameter values: 'source_name' = C:\Work\GitRepos\Demo3\accts.txt, 'source_type' = t, 'target_name' = GDEV1T_STG.accs, 'target_type' = t, 'int i' = 2
+2018-01-02 15:06:43,425 INFO  RowCountLogger - In function 'rowCountModuleManager', parameter values: 'int i' = 3
+2018-01-02 15:06:43,426 INFO  RowCountLogger - In function 'rowCountComparison', parameter values: 'source_name' = C:\Work\GitRepos\Demo4\transactions_.txt, 'source_type' = t, 'target_name' = GDEV1T_STG.TRANS_, 'target_type' = t, 'int i' = 3
+2018-01-02 15:06:43,534 ERROR RowCountLogger - Error encountered while inserting into Row Count Result Table
+2018-01-02 15:06:43,534 DEBUG RowCountLogger - rowCountComparison execution time: 820(ms)
+2018-01-02 15:10:30,565 INFO  RowCountLogger - In function 'rowCountModuleManager', parameter values: 'int i' = 0
+2018-01-02 15:10:30,568 INFO  RowCountLogger - In function 'rowCountComparison', parameter values: 'source_name' = C:\Work\GitRepos\Demo1\accounts_stg_2, 'source_type' = f, 'target_name' = GDEV1T_STG.accs_src2, 'target_type' = t, 'int i' = 0
+2018-01-02 15:10:30,646 INFO  RowCountLogger - In function 'rowCountModuleManager', parameter values: 'int i' = 1
+2018-01-02 15:10:30,647 INFO  RowCountLogger - In function 'rowCountComparison', parameter values: 'source_name' = C:\Work\GitRepos\Demo2\customers, 'source_type' = f, 'target_name' = GDEV1T_STG.Cust_, 'target_type' = t, 'int i' = 1
+2018-01-02 15:10:30,680 INFO  RowCountLogger - In function 'rowCountModuleManager', parameter values: 'int i' = 2
+2018-01-02 15:10:30,681 INFO  RowCountLogger - In function 'rowCountComparison', parameter values: 'source_name' = C:\Work\GitRepos\Demo3\accts, 'source_type' = t, 'target_name' = GDEV1T_STG.accs, 'target_type' = t, 'int i' = 2
+2018-01-02 15:29:57,334 INFO  RowCountLogger - In function 'rowCountModuleManager', parameter values: 'int i' = 0
+2018-01-02 15:29:57,338 INFO  RowCountLogger - In function 'rowCountComparison', parameter values: 'source_name' = C:\Work\GitRepos\Demo1\accounts_stg_2, 'source_type' = f, 'target_name' = GDEV1T_STG.accs_src2, 'target_type' = t, 'int i' = 0
+2018-01-02 15:29:57,466 INFO  RowCountLogger - In function 'rowCountModuleManager', parameter values: 'int i' = 1
+2018-01-02 15:29:57,467 INFO  RowCountLogger - In function 'rowCountComparison', parameter values: 'source_name' = C:\Work\GitRepos\Demo1\customers, 'source_type' = f, 'target_name' = GDEV1T_STG.Cust_, 'target_type' = t, 'int i' = 1
+2018-01-02 15:29:57,564 INFO  RowCountLogger - In function 'rowCountModuleManager', parameter values: 'int i' = 2
+2018-01-02 15:29:57,565 INFO  RowCountLogger - In function 'rowCountComparison', parameter values: 'source_name' = C:\Work\GitRepos\Demo1\accts, 'source_type' = f, 'target_name' = GDEV1T_STG.accs, 'target_type' = t, 'int i' = 2
+2018-01-02 15:29:57,681 INFO  RowCountLogger - In function 'rowCountModuleManager', parameter values: 'int i' = 3
+2018-01-02 15:29:57,682 INFO  RowCountLogger - In function 'rowCountComparison', parameter values: 'source_name' = C:\Work\GitRepos\Demo1\transactions_, 'source_type' = f, 'target_name' = GDEV1T_STG.TRANS_, 'target_type' = t, 'int i' = 3
+2018-01-02 15:29:57,883 DEBUG RowCountLogger - rowCountComparison execution time: 548(ms)

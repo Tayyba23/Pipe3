@@ -1,0 +1,53 @@
+2018-01-02 15:04:22 INFO  - ======================================================================================
+2018-01-02 15:04:22 INFO  - =                                                                          		=
+2018-01-02 15:04:22 INFO  - =			Testing Automation Framework Execution Started			=
+2018-01-02 15:04:22 INFO  - =			  Do not close this window unless prompted			=
+2018-01-02 15:04:22 INFO  - =                                                                          		=
+2018-01-02 15:04:22 INFO  - ======================================================================================
+2018-01-02 15:04:22 INFO  - ======================================================================================
+2018-01-02 15:04:22 INFO  - =                                                                          		=
+2018-01-02 15:04:22 INFO  - =		    Scanning Input Metadata Sheet for Mandatory Fields			=
+2018-01-02 15:04:22 INFO  - =                                                                          		=
+2018-01-02 15:04:22 INFO  - ======================================================================================
+2018-01-02 15:04:27 INFO  - ======================================================================================
+2018-01-02 15:04:27 INFO  - =                                                                          		=
+2018-01-02 15:04:27 INFO  - =		Scan Completed - No Required sheets or columns found absent		=
+2018-01-02 15:04:27 INFO  - =                                                                          		=
+2018-01-02 15:04:27 INFO  - ======================================================================================
+2018-01-02 15:04:27 INFO  - ======================================================================================
+2018-01-02 15:04:27 INFO  - =                                                                          		=
+2018-01-02 15:04:27 INFO  - =			Setting up Result and lookup Tables				=
+2018-01-02 15:04:27 INFO  - =	If this is the first time the tool is being executed, this may take some time	=
+2018-01-02 15:04:27 INFO  - =                                                                          		=
+2018-01-02 15:04:27 INFO  - ======================================================================================
+2018-01-02 15:04:48 INFO  - ======================================================================================
+2018-01-02 15:04:48 INFO  - =                                                                          		=
+2018-01-02 15:04:48 INFO  - =				Result and lookup Table Setup Completed			=
+2018-01-02 15:04:48 INFO  - =                                                                          		=
+2018-01-02 15:04:48 INFO  - ======================================================================================
+2018-01-02 15:04:48 DEBUG - File '.accounts_stg_2.txt' not found
+2018-01-02 15:04:48 DEBUG - File '.customers.txt' not found
+2018-01-02 15:04:48 DEBUG - File '.accts.txt' not found
+2018-01-02 15:04:48 DEBUG - File '.transactions_.txt' not found
+2018-01-02 15:04:48 INFO  - ======================================================================================
+2018-01-02 15:04:48 INFO  - =                                                                          		 =
+2018-01-02 15:04:48 INFO  - =				Beginning Module Execution				 =
+2018-01-02 15:04:48 INFO  - =			  Do not close this window unless prompted			 =
+2018-01-02 15:04:48 INFO  - =                                                                          		 =
+2018-01-02 15:04:48 INFO  - ======================================================================================
+2018-01-02 15:04:50 INFO  - --------------------------------------------------------------------------------------
+			    |				Running Module 'ROW COUNT'				|
+			    --------------------------------------------------------------------------------------
+2018-01-02 15:04:50 ERROR - 2000 (Missing Information): Source object name and/or path not found in input file. Please check Source's path and Name columns in row 2 of sheet 'Row Count & Metrics Collection' in file "C:\Work\GitRepos\Demo1\Input Parameter Files\Test Automation Framework Metadata.xlsm"
+2018-01-02 15:04:50 ERROR - 2000 (Missing Information): Source object name and/or path not found in input file. Please check Source's path and Name columns in row 3 of sheet 'Row Count & Metrics Collection' in file "C:\Work\GitRepos\Demo1\Input Parameter Files\Test Automation Framework Metadata.xlsm"
+2018-01-02 15:04:50 ERROR - 2000 (Missing Information): Source object name and/or path not found in input file. Please check Source's path and Name columns in row 4 of sheet 'Row Count & Metrics Collection' in file "C:\Work\GitRepos\Demo1\Input Parameter Files\Test Automation Framework Metadata.xlsm"
+2018-01-02 15:04:50 ERROR - 2000 (Missing Information): Source object name and/or path not found in input file. Please check Source's path and Name columns in row 5 of sheet 'Row Count & Metrics Collection' in file "C:\Work\GitRepos\Demo1\Input Parameter Files\Test Automation Framework Metadata.xlsm"
+2018-01-02 15:04:50 INFO  - --------------------------------------------------------------------------------------
+			    |		ROW COUNT			|
+			    |	Start: 2018-01-02 15:04:50.334		|
+			    |	End: 2018-01-02 15:04:50.345		|
+			    |	Duration: 0 minutes 0.11 seconds	|
+			    |	Status: Unsuccessful			|
+			    |	Inputs Processed: 0			|
+			    --------------------------------------------------------------------------------------
+
